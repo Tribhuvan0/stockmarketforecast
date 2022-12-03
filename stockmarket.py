@@ -1,5 +1,4 @@
 import streamlit as st
-python3 -m pip install yfinance
 from datetime import date
 import yfinance
 from fbprophet import Prophet
